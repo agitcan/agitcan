@@ -5,6 +5,11 @@ public class test4 {
         System.out.println("hello gardas");
         System.out.println("hello gardas");
         System.out.println("hello gardas");
+        System.out.println("hello gardas");
+        System.out.println("hello gardas");
+        System.out.println("hello gardas");
+        System.out.println("hello gardas");
+        System.out.println("hello gardas");
 
     }
 }
